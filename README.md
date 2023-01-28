@@ -33,7 +33,7 @@ Coingecko API:-https://www.coingecko.com/en/api/documentation
 - [Shahbaz Alam Khan]
 
 ## Project Link
-https://crypto-dashboard-indol.vercel.app/
+https://crypto-dashboard-shahbaz.vercel.app/
 
 
 ## Documentation
