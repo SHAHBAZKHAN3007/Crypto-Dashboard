@@ -26,6 +26,9 @@ Coingecko API:-https://www.coingecko.com/en/api/documentation
 - [Shahbaz Alam Khan]
 
 ## Project Link
+
+https://github.com/SHAHBAZKHAN3007/Crypto-Dashboard.git
+
 https://crypto-dashboard-shahbaz.vercel.app/
 
 
