@@ -1,10 +1,3 @@
-
-# Hi, I'm Shahbaz Alam Khan! 👋
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
 # Crypto Currency Dashboard
 Created a new project with create-react-app and get rid of the boilerplate. Create the basic structure of dashboard using Css Grid and Flexbox and setup TailwindCSS using npm and pull the data from Coingecko API- https://www.coingecko.com/en/api/documentation.This dashboard provides information about your favourite Crypto Currencies, their trends and past prices in the form of a well organised graph including Line Chart as well as Bar Charts.
 Install Redux, react-redux, redux-thunk Chart.js and react-chartjs-2 using npm
@@ -81,5 +74,10 @@ npm add react-chartjs-2 chart.js
 npm i react-chartjs-2 chart.js
 
 
+# Hi, I'm Shahbaz Alam Khan! 👋
+
+
+## 🚀 About Me
+I'm a full stack developer...
 
 
